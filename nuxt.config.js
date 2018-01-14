@@ -54,14 +54,15 @@ module.exports = {
       {rel: 'apple-touch-icon', sizes: '180x180', href: '/icons/apple-icon-180x180.png'},
       {rel: 'base', href: 'https://gustavoquinalha.github.io/vue-default/'},
       {rel: 'canonical', href: 'https://gustavoquinalha.github.io/vue-default/'},
-      {rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.css'}
+      {rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.css'},
+      {rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=VT323'}
     ],
     script: [
       {src: 'https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.js'}
     ]
   },
 
-  loading: {color: '#5ee4b7', height: '5px'},
+  loading: {color: '#fb02b5', height: '5px'},
 
   plugins: [
     {src: '~plugins/animation.js', ssr: false},

@@ -1,0 +1,62 @@
+{
+  "work": [{
+      "title": "UX Designer",
+      "company": "Benner Solutions",
+      "startDate": "August 2017",
+      "endDate": "PRESENT",
+      "topics": [
+        "Focused on improving the User Experience within the company web applications for healthcare and others industries",
+        "Worked on different products analyzing and creating metrics for strategic product management and UX continuity",
+        "Developed a Design System based on internal framework technology used to develop more than 10 products",
+        "Developed UX project using Double Diamond method, working with users and developers to improve the product"
+      ]
+    },
+    {
+      "title": "Web Developer",
+      "company": "Smart Sprint",
+      "startDate": "January 2017",
+      "endDate": "October 2017",
+      "topics": [
+        "Focused on digital marketing and better User Experience, and improved results with client interaction and data analysis",
+        "Developed 2 websites using Agile methodology and learned with the final client in the beta process",
+        "Developed a brand identity for 2 web development clients and utilized Material Design from Google for web design",
+        "Analysed results and user data to improve SEO and User Experience (UX)"
+      ]
+    },
+    {
+      "title": "Project Assistant",
+      "company": "Unimed Maringá",
+      "startDate": "March 2016",
+      "endDate": "August 2017",
+      "topics": [
+        "Worked with multidisciplinary teams in the healthcare sector as a project manager",
+        "Managed the 1st hackathon produced by this cooperative health insurance in Brazil with 130 participants and 26 projects developed",
+        "Managed a series of strategic projects with teams of 10-20 people and an average of 6 months duration, focused mainly on IT in the healthcare system",
+        "Implemented learning process between the development of project management methodology used by PMO, more than 20 improvements in first month"
+      ]
+    },
+    {
+      "title": "Project Intern",
+      "company": "Unimed Maringá",
+      "startDate": "March 2015",
+      "endDate": "March 2016",
+      "topics": [
+        "Assisted and managed projects in the PMO focusing on IT projects and research of tools and technologies used by a team of 4 project managers",
+        "Improved project management methodology and created materials for others professionals learn how to do it, which is currently used by 30-50 people in 7 departments",
+        "Assisted project managers and managed project documents, acquisitions, and PMO portfolios of 20-30 projects",
+        "Searched and studied knew tools and technologies to create or increment projects in health sector"
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Silberseg Insurance Broker",
+      "startDate": "December 2010",
+      "endDate": "January 2015",
+      "topics": [
+        "Digitized all database of documents and created the workflow organization system",
+        "Maintained information technology infrastructure and give support when need it",
+        "Collected and processed client’s informations to generate their insurance policy"
+      ]
+    }
+  ]
+}

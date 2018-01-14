@@ -1,0 +1,22 @@
+{
+  "nav" : {
+    "titleHeader" : [
+      {
+        "title": "Home",
+        "url": "/"
+      },
+      {
+        "title": "About",
+        "url": "/about"
+      },
+      {
+        "title": "Work",
+        "url": "/work"
+      },
+      {
+        "title": "Contact me",
+        "url": "/contact"
+      }
+    ]
+  }
+}

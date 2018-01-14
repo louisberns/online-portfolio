@@ -22,6 +22,12 @@
   font-weight: bold;
   src: url('~assets/fonts/avenir/Avenir-Black.woff') format('woff');
 }
+@font-face {
+  font-family: 'VT323';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://fonts.googleapis.com/css?family=VT323');
+}
 
 @import 'base/variables';
 @import 'base/text';
@@ -49,7 +55,7 @@
 }
 
 .bg-color {
-  background: #F2F4F8
+  background: #0D0D0E;
 }
 
 body {

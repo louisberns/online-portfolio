@@ -1,0 +1,47 @@
+{
+  "education": {
+    "degrees": [{
+        "course": "Administration Business",
+        "institution": "Unicesumar",
+        "startDate": "February 2013",
+        "endDate": "July 2018",
+        "graduated": false
+      },
+      {
+        "course": "Front-end Developer",
+        "institution": "Udacity",
+        "startDate": "January 2017",
+        "endDate": "December 2017",
+        "graduated": true
+      }
+    ],
+    "courses": [{
+        "course": "Product Design",
+        "institution": "Udacity",
+        "startDate": "July 2017",
+        "endDate": "September 2017"
+      },
+      {
+        "course": "HTML & CSS",
+        "institution": "Codecademy",
+        "startDate": "May 2013",
+        "endDate": "September 2013"
+      },
+      {
+        "course": "Programming Logic",
+        "institution": "Softblue",
+        "startDate": "March 2013",
+        "endDate": "August 2013"
+      }
+    ],
+    "certifications": [{
+        "title": "Professional Interoperability with HL7",
+        "institution": "HL7 Brazil"
+      },
+      {
+        "title": "Professional Interoperability with OpenEHR",
+        "institution": "HL7 Brazil"
+      }
+    ]
+  }
+}

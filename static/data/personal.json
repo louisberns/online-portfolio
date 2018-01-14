@@ -1,0 +1,16 @@
+{
+  "personal": {
+    "name": "Luis Guilherme Berns Silva",
+    "presentName": "|> Luis Berns",
+    "message": "UX Designer and aspirant Front-end Dev",
+    "address": "Maringa-PR - Brazil",
+    "contacts": {
+      "phone": "+55 44 9 9972-5926",
+      "e-mail": "louisuntitled@gmail.com",
+      "linkedin": ["https://www.linkedin.com/in/louisberns/", "/in/louisberns"],
+      "github": ["https://github.com/louisberns", "/louisberns"],
+      "twitter": ["https://twitter.com/louisuntitled", "@louisuntitled"]
+    },
+    "languages": ["English", "Portuguese-BR"]
+  }
+}

@@ -1,22 +1,25 @@
 <template>
   <div>
     <home/>
+    <arrowNav/>
   </div>
 </template>
 
 <script>
   import home from '@/pages/home'
+  import arrowNav from '@/components/scroll-nav'
 
-export default {
+  export default {
     components: {
-      home
+      home,
+      arrowNav
     },
     data () {
-      return {}
+      return {
+      }
     }
   }
 </script>
 
 <style lang="scss">
-  @import './assets/css/main.scss';
 </style>
