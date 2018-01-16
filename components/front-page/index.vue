@@ -1,6 +1,7 @@
 <template lang="html">
   <div class="front-page container justify-content-between">
     <div class="front-page__console container-column">
+      <vue-typer text='Test'></vue-typer>
       <h1 class="front-page__title">{{title}}</h1>
       <h2 class="front-page__sub-title">{{subTitle}}</h2>
       <p class="front-page__message">{{message}}</p>
@@ -12,22 +13,24 @@
 </template>
 
 <script>
-export default {
-  props: {
-    title: {
-      type: String
+  export default {
+    components: {
     },
-    subTitle: {
-      type: String
-    },
-    message: {
-      type: String
-    },
-    image: {
-      type: String
+    props: {
+      title: {
+        type: String
+      },
+      subTitle: {
+        type: String
+      },
+      message: {
+        type: String
+      },
+      image: {
+        type: String
+      }
     }
   }
-}
 </script>
 
 <style lang="scss" scoped>
