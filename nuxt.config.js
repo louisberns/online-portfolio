@@ -35,9 +35,9 @@ module.exports = {
       {name: 'twitter:creator', content: 'Vue Default'},
       {name: 'twitter:image', content: 'https://gustavoquinalha.github.io/vue-default/intro.png'},
       // android
-      {name: 'msapplication-TileColor', content: '#0081ff'},
+      {name: 'msapplication-TileColor', content: '#fb02b5'},
       {name: 'msapplication-TileImage', content: '/ms-icon-144x144.png'},
-      {name: 'theme-color', content: '#0081ff'}
+      {name: 'theme-color', content: '#fb02b5'}
     ],
     link: [
       {rel: 'sitemap', type: 'application/xml', content: 'https://gustavoquinalha.github.io/vue-default/sitemap.xml'},

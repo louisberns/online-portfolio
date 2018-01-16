@@ -1,6 +1,6 @@
 <template lang="html">
-  <div class="">
-    <img src="assets/icons/pixel/arrow-nav.svg" alt="">
+  <div class="scroll-nav">
+    <img src="@/assets/icons/pixel/arrow-nav.svg" alt="">
   </div>
 </template>
 
@@ -9,5 +9,13 @@
   }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
+  .scroll-nav {
+    position: absolute;
+    bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
 </style>

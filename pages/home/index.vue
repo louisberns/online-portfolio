@@ -1,6 +1,6 @@
 <template>
-  <div class="container align-items-center margin-left-30">
-    <frontPage :title="personal.personal.presentName" :message="personal.personal.message" />
+  <div class="container align-items-center margin-left-30 margin-right-30">
+    <frontPage :title="personal.personal.presentName" :subTitle="personal.personal.subTitle" :message="personal.personal.message" :image="imageLink"/>
   </div>
 
 </template>
@@ -17,7 +17,8 @@
     },
     data() {
       return {
-        personal
+        personal,
+        imageLink: require('@/assets/img/landing.png')
       }
     }
   }

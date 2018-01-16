@@ -26,6 +26,7 @@
       list-style: none;
     }
     .nav__list__item {
+      font-size: 24px;
     }
   }
 </style>
