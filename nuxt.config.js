@@ -66,7 +66,8 @@ module.exports = {
 
   plugins: [
     {src: '~plugins/animation.js', ssr: false},
-    {src: '~plugins/ga.js', ssr: false}
+    {src: '~plugins/ga.js', ssr: false},
+    {src: '~plugins/typer.js', ssr: false}
   ],
   modules: [
   ],
